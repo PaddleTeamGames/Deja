@@ -1,0 +1,2 @@
+Directionally Challenged
+Player cant go forward until he touches the lever, after that he can ONLY go forward

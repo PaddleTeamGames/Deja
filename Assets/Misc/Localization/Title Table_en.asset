@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Title Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 456430814a170a34bb9cc7ad705e7f2b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1664078467072
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2318872236032
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2432693063680
+    m_Localized: Best Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267358888153088
+    m_Localized: Congratulations!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267587142176768
+    m_Localized: 'You have escaped the loop and beat the game!
+
+
+      Will you try
+      to improve your escape time?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267998280437760
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268505258545152
+    m_Localized: Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268550892572672
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268648842153984
+    m_Localized: 'Jumps:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268682635661312
+    m_Localized: 'Levers:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268825258774528
+    m_Localized: 'Restarts:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268901507026944
+    m_Localized: 'Victories:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268997841801216
+    m_Localized: 'Best Run:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269047770796032
+    m_Localized: 'This Run:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269555394826240
+    m_Localized: 'Total Played:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272717489000448
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2278405728428032
+    m_Localized: 'Created by: Paddle Team'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2281195498430464
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3187625193000960
+    m_Localized: 'Created By: Paddle Team'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6813882924625920
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9350262959599616
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9350366726680576
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9350456358957056
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9350827135430656
+    m_Localized: 'Resolution
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9351157332013056
+    m_Localized: Screen Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9351402950455296
+    m_Localized: Quality Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9351605224960000
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9351690142838784
+    m_Localized: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10051536428429312
+    m_Localized: 'Project Lead & Programmer:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10051771619831808
+    m_Localized: 'Programmer:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10051905766256640
+    m_Localized: 'Modeller:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10051971516166144
+    m_Localized: 'Additional Help:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

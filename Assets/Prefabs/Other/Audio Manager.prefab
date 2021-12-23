@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2430407136640817135
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2430407136640817131}
+  - component: {fileID: 2430407136640817130}
+  - component: {fileID: 2430407136640817129}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &2430407136640817131
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2430407136640817135}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 25.39711, y: 10.373314, z: -9.701897}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2430407136640817130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2430407136640817135}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc60733b64611845a1984acccbce983, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: 0
+    clip: {fileID: 8300000, guid: e1faeff2bdfc94cbc89cbc25316af9c5, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: 1
+    clip: {fileID: 8300000, guid: 9764651d47c2443009eed9dd300a0b25, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: 2
+    clip: {fileID: 8300000, guid: 8201699cc97f3476a8e6cbbec88fa635, type: 3}
+    volume: 0.4
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: 3
+    clip: {fileID: 8300000, guid: 8dcc9445331e54963aa9a1c9e6b601ec, type: 3}
+    volume: 0.35
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: 4
+    clip: {fileID: 8300000, guid: 545f208966a144a71b06b9376eccb73e, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: 5
+    clip: {fileID: 8300000, guid: 46cbb3b6cf5ff47e1a5d2a7e52b02695, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: 6
+    clip: {fileID: 8300000, guid: cf590ac177da1474fa850802a23a6102, type: 3}
+    volume: 0.65
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Menu
+    clip: {fileID: 8300000, guid: 3d58bfb00444b4d648d986fe43402bfa, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Final
+    clip: {fileID: 8300000, guid: 9404705a7fb734241be1a8d65859267e, type: 3}
+    volume: 0.35
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Lever
+    clip: {fileID: 8300000, guid: cc10db653a956ce40bc1c2453b6013f9, type: 3}
+    volume: 0.55
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Teleport
+    clip: {fileID: 8300000, guid: aa35ca15d3c0cad4287fab6f34ad3e7d, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: click
+    clip: {fileID: 8300000, guid: b8873eb0dad93504792f62663c3c354a, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+--- !u!114 &2430407136640817129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2430407136640817135}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 192c36edfcc6a2647b5c5da0bea74bf8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -1,0 +1,2 @@
+Hopping Mad
+Player is automatically jumping always

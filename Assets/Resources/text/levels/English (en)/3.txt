@@ -1,0 +1,2 @@
+Sneaky Tricky Lever
+This time the door starts open so the Player CANNOT touch the lever

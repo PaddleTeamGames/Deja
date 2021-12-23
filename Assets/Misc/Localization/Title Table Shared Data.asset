@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Title Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Title Table
+  m_TableCollectionNameGuidString: 456430814a170a34bb9cc7ad705e7f2b
+  m_Entries:
+  - m_Id: 1664078467072
+    m_Key: Start/Canvas/Start Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2318872236032
+    m_Key: Start/Canvas/Quit Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2432693063680
+    m_Key: Start/Canvas/Best Time Panel/Best Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267358888153088
+    m_Key: Final/Canvas/Win Screen/Title Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267587142176768
+    m_Key: Final/Canvas/Win Screen/Win Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267998280437760
+    m_Key: Final/Canvas/Stats Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268505258545152
+    m_Key: Final/Canvas/Stats Screen/Stats Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268550892572672
+    m_Key: Final/Canvas/Stats Screen/Time Canvas Group/Time Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268648842153984
+    m_Key: Final/Canvas/Stats Screen/General Canvas Group/Jumps Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268682635661312
+    m_Key: Final/Canvas/Stats Screen/General Canvas Group/Levers Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268825258774528
+    m_Key: Final/Canvas/Stats Screen/General Canvas Group/Restarts Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268901507026944
+    m_Key: Final/Canvas/Stats Screen/General Canvas Group/Victories Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268997841801216
+    m_Key: Final/Canvas/Stats Screen/Time Canvas Group/Best Time Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269047770796032
+    m_Key: Final/Canvas/Stats Screen/Time Canvas Group/Run Time Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269555394826240
+    m_Key: Final/Canvas/Stats Screen/Time Canvas Group/Total Time Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272717489000448
+    m_Key: Start/Canvas/Reset Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2278405728428032
+    m_Key: Final/Canvas/Credits Screen/General Canvas Group/Made by Text (1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2281195498430464
+    m_Key: Final/Canvas/Credits Screen/Credits Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3187625193000960
+    m_Key: Start/Canvas/Created by Panel/Created By
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6813882924625920
+    m_Key: Start/Canvas/Options Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9350262959599616
+    m_Key: Start/Canvas/Options Background/GraphicsMenu/Options Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9350366726680576
+    m_Key: Start/Canvas/Options Background/GraphicsMenu/Close Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9350456358957056
+    m_Key: Start/Canvas/Options Background/GraphicsMenu/Reset Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9350827135430656
+    m_Key: Start/Canvas/Options Background/GraphicsMenu/VerticalLayout/ResolutionOption/OptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9351157332013056
+    m_Key: Start/Canvas/Options Background/GraphicsMenu/VerticalLayout/ScreenModeOption/OptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9351402950455296
+    m_Key: Start/Canvas/Options Background/GraphicsMenu/VerticalLayout/QualityLevelOption/OptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9351605224960000
+    m_Key: Start/Canvas/Options Background/GraphicsMenu/VerticalLayout/VolumeOption/OptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9351690142838784
+    m_Key: Start/Canvas/Options Background/GraphicsMenu/Apply Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10051536428429312
+    m_Key: Final/Canvas/Credits Screen/Lead Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10051771619831808
+    m_Key: Final/Canvas/Credits Screen/Pro Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10051905766256640
+    m_Key: Final/Canvas/Credits Screen/Modeller Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10051971516166144
+    m_Key: Final/Canvas/Credits Screen/Help Text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6833213331913048364
+  references:
+    version: 2
+    RefIds:
+    - rid: 6833213331913048364
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1637184012152
